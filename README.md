@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hi, I'm Ahmad Atwi 👋
 
-<!--
-**AhmadAtwi10/AhmadAtwi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an engineer and a research-oriented developer working at the intersection of **Cloud-edge-IoT continuum**, **monitoring**, **Reinforcement Learning**.
 
-Here are some ideas to get you started:
+I’m currently a **PhD** in France, focusing on **Monitoring of Cloud-edge-IoT**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 About me
+
+- 🎓 Engineering background in telecommunications, digital systems, machine learning, multimedia networking
+- 🌐 Interested in IoT, observability, microservices, and Reinfrocement Learning
+- 🧠 Exploring research topics around monitoring, causal discovery, and intelligent systems 
+- 🛠️ Enjoy working on technical projects that connect research, deployments, and real-world infrastructure  
+
+## 🧩 Main interests
+
+- Cloud-edge-IoT monitoring  
+- Reinforcement Learning 
+- Machine Learning
+- Deployments
+- Causal discovery  
+
+
+## 🛠️ Technologies & tools
+
+- **Languages:** Python, LaTeX, SQL, Bash  
+- **Research & data:** Jupyter Notebook, Pandas, NumPy, Matplotlib  
+- **DevOps & cloud-native:** Docker, Kubernetes 
+- **Development:** Git, GitHub, VS Code, Linux
+
+
+## 📫 Connect with me
+
+- LinkedIn: [AhmadAtwi](www.linkedin.com/in/ahmad-atwi-932516293)
+- Email: ahmadatwi742@gmail.com
+
+---
+
+Thanks for visiting my profile!
