@@ -6,7 +6,7 @@ I’m currently a **PhD** in France, focusing on **Monitoring of Cloud-edge-IoT*
 
 ## 🔍 About me
 
-- 🎓 Engineering background in telecommunications, digital systems, machine learning, multimedia networking
+- 🎓 Engineering background in Machine Learning, telecommunications, digital systems, multimedia networking
 - 🌐 Interested in IoT, observability, microservices, and Reinfrocement Learning
 - 🧠 Exploring research topics around monitoring, causal discovery, and intelligent systems 
 - 🛠️ Enjoy working on technical projects that connect research, deployments, and real-world infrastructure  
